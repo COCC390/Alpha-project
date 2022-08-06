@@ -1,2 +1,2 @@
-# Alpha-project
+# Ghost Shooting
 the first game project 
